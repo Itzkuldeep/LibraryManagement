@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+    <!-- other classpathentry elements... -->
+    <classpathentry kind="lib" path="../rs2xml.jar"/>
+    <classpathentry kind="lib" path="../mysql-connector.jar"/>
+    
+</classpath>
+<!-- set CLASSPATH=%CLASSPATH%;../rs2xml.jar;
+set CLASSPATH=%CLASSPATH%;G:\Akshay\JAVA\Library_Management_System\Application\rs2xml.jar;G:\Akshay\JAVA\Library_Management_System\mysql-connector.jar;    -->
+
+set CLASSPATH=%CLASSPATH%;E:\Application\Application\rs2xml.jar;E:\Application\Application\mysql-connector.jar; 
